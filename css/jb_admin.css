@@ -1,0 +1,11 @@
+.select_style label > input{ 
+	visibility: hidden; 
+	position: absolute; 
+}
+.select_style label > input + img{ 
+	cursor:pointer;
+	border:2px solid transparent;
+}
+.select_style label > input:checked + img{
+	border:2px solid #f00;
+}

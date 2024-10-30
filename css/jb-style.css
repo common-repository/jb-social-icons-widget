@@ -1,0 +1,192 @@
+/** Design Social Icons **/
+
+.jb_social_container{
+	width:100%; 
+	height:auto;
+	overflow:hidden;
+}
+.jb_social_container ul.jb_social_icons_widget{
+	margin:0px;
+	padding:0px; 
+	list-style:none; 
+	text-align:left; 
+	font-size:0px;
+}
+.jb_social_container ul.jb_social_icons_widget li{
+	display:inline-block;
+	float:none;
+	margin:0px;
+	padding:0px;
+	background: none;
+}
+.jb_social_container ul.jb_social_icons_widget li a{
+	display:block;
+	width:40px;
+	height:40px; 
+	line-height:40px; 
+	text-align:center; 
+	background-color:#000000; 
+	color:#ffffff;
+	border-radius:50%;
+	text-decoration:none;
+	font-size:20px;
+	margin:7px;
+	transition:200ms ease-in-out;
+}
+.jb_social_container ul.jb_social_icons_widget li a{
+	color:#fff;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(1) a:hover, .jb_social_container ul.jb_social_icons_widget li .facebook{
+	background-color:#3b5998;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(2) a:hover, .jb_social_container ul.jb_social_icons_widget li .youtube{
+	background-color:#bb0000;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(3) a:hover, .jb_social_container ul.jb_social_icons_widget li .twitter{
+	background-color:#00ACED;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(4) a:hover, .jb_social_container ul.jb_social_icons_widget li .linkedin{
+	background-color:#007BB6;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(5) a:hover, .jb_social_container ul.jb_social_icons_widget li .pinterest{
+	background-color:#CB2027;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(6) a:hover, .jb_social_container ul.jb_social_icons_widget li .googleplus{
+	background-color:#DD4B39;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(7) a:hover, .jb_social_container ul.jb_social_icons_widget li .tumblr{
+	background-color:#32506D;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(8) a:hover, .jb_social_container ul.jb_social_icons_widget li .instagram{
+	background-color:#517FA4;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(9) a:hover, .jb_social_container ul.jb_social_icons_widget li .reddit{
+	background-color:#FF4500;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(10) a:hover, .jb_social_container ul.jb_social_icons_widget li .vk{
+	background-color:#45668e;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(11) a:hover, .jb_social_container ul.jb_social_icons_widget li .flickr{
+	background-color:#FF0084;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(12) a:hover, .jb_social_container ul.jb_social_icons_widget li .vimeo{
+	background-color:#1ab7ea;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(13) a:hover, .jb_social_container ul.jb_social_icons_widget li .vine{
+	background-color:#00bf8f;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(14) a:hover, .jb_social_container ul.jb_social_icons_widget li .meetup{
+	background-color:#ED1C40;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(15) a:hover, .jb_social_container ul.jb_social_icons_widget li .snapchat{
+	background-color:#FFFA37;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(16) a:hover, .jb_social_container ul.jb_social_icons_widget li .soundcloud{
+	background-color:#ff3a00;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(17) a:hover, .jb_social_container ul.jb_social_icons_widget li .skype{
+	background-color:#00AFF0;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(18) a:hover, .jb_social_container ul.jb_social_icons_widget li .wordpress{
+	background-color:#21759b;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(19) a:hover, .jb_social_container ul.jb_social_icons_widget li .xing{
+	background-color:#B0D400;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(20) a:hover, .jb_social_container ul.jb_social_icons_widget li .stumbleupon{
+	background-color:#EB4823;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(21) a:hover, .jb_social_container ul.jb_social_icons_widget li .stumbleupon{
+	background-color:#F48024;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(22) a:hover, .jb_social_container ul.jb_social_icons_widget li .github{
+	background-color:#171516;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(23) a:hover, .jb_social_container ul.jb_social_icons_widget li .behance{
+	background-color:#1769FF;
+}
+.jb_social_container ul.jb_social_icons_widget li:nth-child(24) a:hover, .jb_social_container ul.jb_social_icons_widget li .dribbble{
+	background-color:#ea4c89;
+}
+.jb_social_container ul.jb_social_icons_widget_rounded_colors li a{
+	border-radius:3px;
+}
+
+/** Design for Black design **/
+.jb_social_container  .jb_social_icons_widget_black li a{
+	background-color: transparent !important;
+	color: #000 !important;
+	font-size: 30px !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(1) a:hover{
+	color:#3b5998 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(2) a:hover{
+	color:#bb0000 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(3) a:hover{
+	color:#00ACED !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(4) a:hover{
+	color:#007BB6 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(5) a:hover{
+	color:#CB2027 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(6) a:hover{
+	color:#DD4B39 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(7) a:hover{
+	color:#32506D !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(8) a:hover{
+	color:#517FA4 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(9) a:hover{
+	color:#FF4500 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(10) a:hover{
+	color:#45668e !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(11) a:hover{
+	color:#FF0084 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(12) a:hover{
+	color:#1ab7ea !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(13) a:hover{
+	color:#00bf8f !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(14) a:hover{
+	color:#ED1C40 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(15) a:hover{
+	color:#FFFA37 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(16) a:hover{
+	color:#ff3a00 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(17) a:hover{
+	color:#00AFF0 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(18) a:hover{
+	color:#21759b !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(19) a:hover{
+	color:#B0D400 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(20) a:hover{
+	color:#EB4823 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(21) a:hover{
+	color:#F48024 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(22) a:hover{
+	color:#171516 !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(23) a:hover{
+	color:#1769FF !important;
+}
+.jb_social_container ul.jb_social_icons_widget_black li:nth-child(24) a:hover{
+	color:#ea4c89 !important;
+}
